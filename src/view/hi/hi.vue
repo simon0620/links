@@ -25,11 +25,12 @@ export default {
   data () {
     return {
         sheetVisible: true,
-        actions: ["Test","Test12"]
+        actions: ["Test","Test12","test3"]
     }
   }
 }
 </script>
 
 <style scoped>
+
 </style>
