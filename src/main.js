@@ -5,6 +5,7 @@ import App from './App'
 import router from './router'
 import MintUI from 'mint-ui' // 加这一行
 import 'mint-ui/lib/style.css' // 和加这一行
+
 Vue.use(MintUI)
 
 Vue.config.productionTip = false
