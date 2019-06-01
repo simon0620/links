@@ -1,12 +1,34 @@
 [
   {
     "id": 1,
-    "name": "☆ 试玩每单收入1.5-3.5元",
-    "path": "test2"
+    "name": "应用试客",
+    "mark": "新手必做",
+    "detail": "☆ 试玩每单收入1.5-3.5元",
+    "iconName": "link1.jpg",
+    "link": "http://www.baidu.com"
   },
   {
     "id": 2,
-    "name": "☆ 试玩每单收入1.5-3.5元",
-    "path": "test222"
+    "name": "小鱼挣钱",
+    "mark": "新手必做",
+    "detail": "☆ 试玩每单收入1.5-3.5元",
+    "iconName": "link2.jpg",
+    "link": "http://www.github.com"
+  },
+  {
+    "id": 3,
+    "name": "爱盈利",
+    "mark": "新手必做",
+    "detail": "☆ 试玩每单收入1.5-3.5元",
+    "iconName": "link1.jpg",
+    "link": "www.baidu.com"
+  },
+  {
+    "id": 4,
+    "name": "爱搜",
+    "mark": "新手必做",
+    "detail": "☆ 试玩每单收入1.5-3.5元",
+    "iconName": "link2.jpg",
+    "link": "www.github.com"
   }
 ]
